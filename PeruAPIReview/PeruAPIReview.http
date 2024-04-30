@@ -1,0 +1,6 @@
+@PeruAPIReview_HostAddress = http://localhost:5266
+
+GET {{PeruAPIReview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
